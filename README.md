@@ -1,5 +1,5 @@
 # OpenRadioMK1
-
+## Perfect in every way except for work!
 ![Final Work 1](https://github.com/YikangLi2003/OpenRadioMK1/blob/main/PCB%20Images/final%20work%201.jpg)
 
 ![Schematic Diagram 1](https://github.com/YikangLi2003/OpenRadioMK1/blob/main/PCB%20Images/schem%201.png)
